@@ -5,5 +5,6 @@ int main(){
     // printf("Learning C Language with Phitron"); 
     
     printf("Welcome to Phitron Spring 2023,Batch  3\nProbir,Focus on the Journey\nLearning C Language with Phitron\n");
+    printf("Welcome to Phitron Spring 2023,Batch  3\nProbir,Focus on the Journey\nLearning C Language with Phitron\n");
     return 0; 
 }

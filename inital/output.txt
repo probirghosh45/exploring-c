@@ -1,3 +1,6 @@
 Welcome to Phitron Spring 2023,Batch  3
 Probir,Focus on the Journey
 Learning C Language with Phitron
+Welcome to Phitron Spring 2023,Batch  3
+Probir,Focus on the Journey
+Learning C Language with Phitron
