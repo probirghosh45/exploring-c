@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Phitron-B3-2023/C/module-6.5",
-      "program": "d:/Phitron-B3-2023/C/module-6.5/build/Debug/outDebug",
+      "cwd": "d:/Phitron-B3-2023/C/module-6.5 (practice problem-set)",
+      "program": "d:/Phitron-B3-2023/C/module-6.5 (practice problem-set)/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
