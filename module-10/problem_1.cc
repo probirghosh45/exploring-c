@@ -11,7 +11,8 @@ int main()
     lengthOne = strlen(a);
     lengthTwo = strlen(b);
     printf("%d %d\n",lengthOne,lengthTwo);
-    printf("%s %s",a,b);
+    printf("%s %s\n",a,b);
+
     return 0;
 }
 
