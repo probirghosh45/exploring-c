@@ -1,4 +1,10 @@
-address of x [fun]: 0000006ac6dffccc
-value of x [fun]: 50
-address of x [main]: 0000006ac6dffccc
-value of x [main]: 50
+0th index address : 0000003d7b9ff690
+0th index address : 0000003d7b9ff690
+0th index  address : 000000000000000a
+0th index address : 000000000000000a
+1st index address : 0000003d7b9ff694
+1st index address : 0000003d7b9ff694
+1st index value : 25
+1st index address : 25
+1st index value : 25
+1st index address : 25
