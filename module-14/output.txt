@@ -1,2 +1,7 @@
-25.74
-81.00
+value of m - 50
+address of m - 0000000000000032
+address of p - 000000ce04bffcd4
+address of pointer p - 0000000000000032
+value of m accessed by pointer p - 50
+value of m changed by pointer p - 100
+value of pointer p -  100
