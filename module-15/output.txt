@@ -1,0 +1,4 @@
+address of x [fun]: 0000006ac6dffccc
+value of x [fun]: 50
+address of x [main]: 0000006ac6dffccc
+value of x [main]: 50
